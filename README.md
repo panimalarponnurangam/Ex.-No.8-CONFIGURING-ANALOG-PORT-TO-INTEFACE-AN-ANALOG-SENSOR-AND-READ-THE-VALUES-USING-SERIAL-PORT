@@ -199,11 +199,11 @@ Board Settings and its connections :
 ![image](https://github.com/panimalarponnurangam/Ex.-No.8-CONFIGURING-ANALOG-PORT-TO-INTEFACE-AN-ANALOG-SENSOR-AND-READ-THE-VALUES-USING-SERIAL-PORT/assets/121490826/85e9c5ce-9e18-4242-a182-18fd8f7d22b7)
 ![image](https://github.com/panimalarponnurangam/Ex.-No.8-CONFIGURING-ANALOG-PORT-TO-INTEFACE-AN-ANALOG-SENSOR-AND-READ-THE-VALUES-USING-SERIAL-PORT/assets/121490826/cc6d4d42-9aae-4478-b044-ec1b6575c129)
 Normal ADC Value :
-## Result :
+
 ![image](https://github.com/panimalarponnurangam/Ex.-No.8-CONFIGURING-ANALOG-PORT-TO-INTEFACE-AN-ANALOG-SENSOR-AND-READ-THE-VALUES-USING-SERIAL-PORT/assets/121490826/ada656d1-2ce6-4ec8-b6f1-61d9cb3b2323)
 ![image](https://github.com/panimalarponnurangam/Ex.-No.8-CONFIGURING-ANALOG-PORT-TO-INTEFACE-AN-ANALOG-SENSOR-AND-READ-THE-VALUES-USING-SERIAL-PORT/assets/121490826/cc4eb4a9-01cf-4191-89c6-11a371d2f946)
 
+## Result :
 
-
-
+Thus, Temperature sensor LM35 is interfaced to LPC2148 and its output is measured.
 ****
